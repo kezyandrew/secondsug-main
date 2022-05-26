@@ -2,7 +2,7 @@
 // import './App.css';
 import Footer from '../../components/Footer';
 
-const  football = () => (
+const  ride = () => (
 	  
 	  alert("Thank you for selecting a Ride! Confirm your location!")
 );
@@ -97,7 +97,7 @@ function Home() {
 											/>
 										</svg>
 										
-										<a className="text-black items-center font-semibold text-xl text-center active" href="#" onClick={football}>
+										<a className="text-black items-center font-semibold text-xl text-center active" href="#" onClick={ride}>
 											Ride
 										</a>
 									</div>
